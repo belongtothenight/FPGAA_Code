@@ -34,8 +34,10 @@ begin
 		4'hb: oSEG = 8'b10000011;
 		4'hc: oSEG = 8'b11000110;
 		4'hd: oSEG = 8'b10100001;
-		4'he: oSEG = 8'b10000110;
-		4'hf: oSEG = 8'b10001110;
+		// 4'he: oSEG = 8'b10000110;
+		// 4'hf: oSEG = 8'b10001110;
+		4'he: oSEG = 8'b11111111;
+		4'hf: oSEG = 8'b10111111;
 		endcase
 end
 
