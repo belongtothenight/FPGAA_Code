@@ -34,7 +34,5 @@
 
 ## Note
 
-1. The divider function in No.3 & No.4 can't properly calculate the quotient of $Z^+\div Z^-$. Not sure about $Z^-\div Z^-$.
-
-<code style="color:OrangeRed">/mod/</code>
-<code style="color:Lime">/sim/</code>
+1. The divider function in No.4 & No.5 can't properly calculate the quotient of $Z^+\div Z^-$. Not sure about $Z^-\div Z^-$.
+2. Code in No.23 can't display properly since the FPGA's base clock is several hundred mega hertz, and each second is based on each clock cycle.
