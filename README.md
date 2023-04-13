@@ -31,6 +31,7 @@
 | 25. | [counter_v7_24.v](https://github.com/belongtothenight/FPGAA_Code/blob/main/src/counter_v7_24.v)                                       | <code style="color:OrangeRed">/mod/</code> Counter with frequency divider by 24 with dislocation.                                 |
 | 26. | [counter_v7_60.v](https://github.com/belongtothenight/FPGAA_Code/blob/main/src/counter_v7_60.v)                                       | <code style="color:OrangeRed">/mod/</code> Counter with frequency divider by 60 with dislocation.                                 |
 | 27. | [counter_tb_v7.v](https://github.com/belongtothenight/FPGAA_Code/blob/main/src/counter_tb_v7.v)                                       | <code style="color:OrangeRed">/sim/</code> Testing file of counter_tb_v7.v.                                                       |
+| 28. | [DE10_LITE_BUTTON_COUNTER.v](https://github.com/belongtothenight/FPGAA_Code/blob/main/src/DE10_LITE_BUTTON_COUNTER.v)                 | <code style="color:OrangeRed">/top/</code> Apply "counter_v7.v" to 7-segment LED.                                                 |
 
 ## Note
 
