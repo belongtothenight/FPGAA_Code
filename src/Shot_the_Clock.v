@@ -34,7 +34,6 @@ wire	[6:0] count_SW, count_KEY;
 wire	[3:0] count_KEY_digit, count_KEY_ten;
 wire	[3:0] count_SW_digit,  count_SW_ten;
 wire	[9:0] SW_d;
-// wire		  clock_debounce;
 
 wire	clock_1s, clock_100ms, clock_10ms;
 wire [3:0] hour_tens, hour_digits;
