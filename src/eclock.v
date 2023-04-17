@@ -99,12 +99,12 @@ assign sec_digits  = (count_shotLED1) ? 4'he : count_sec % 10;
 		begin
 			count_hour <= count_hour + 1;
 		end
-		else if (hour_sub )
+		else if (hour_sub)
 		begin
 			count_hour <= count_hour - 1;
 		end
 		// hour maximum
-		else if (count_hour >= 23 && count_min >= 59 && count_sec >= 59 )
+		else if (count_hour >= 23 && count_min >= 59 && count_sec >= 59)
 		begin
 			count_min <= 0;
 			count_hour <= 0;
