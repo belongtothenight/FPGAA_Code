@@ -55,3 +55,7 @@ Note: Some of the code below is not created by me, I just store them in this rep
 
 1. The divider function in No.4 & No.5 can't properly calculate the quotient of $Z^+\div Z^-$. Not sure about $Z^-\div Z^-$.
 2. Code in No.23 can't display properly since the FPGA's base clock is several hundred megahertz, and each second is based on each clock cycle.
+
+## Final
+
+Modify the midterm project to operate with CPU and State Machine.
